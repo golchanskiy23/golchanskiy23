@@ -40,10 +40,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=golchanskiy23)](https://github.com/golchanskiy23/github-profile-trophy)
 
-<h3>🔥 Streak stats</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=golchanskiy23)](https://git.io/streak-stats)
-
 <h3>👑 Top languages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golchanskiy23&layout=compact)](https://github.com/golchanskiy23/github-readme-stats)

@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://t.me/MaXimMaXiM209" target="_blank">Maxim Golchanskiy</a> 
 </h1>
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaxiCracker&label=Profile%20views&color=0e75b6&style=flat" alt="MaxiCracker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=golchanskiy23&label=Profile%20views&color=0e75b6&style=flat" alt="golchanskiy23" /> </p>
 <h3 align="center">A second-year student of the Faculty of Physics at ITMO University, Backend Golang developer</h3>
 - 🔭 I’m currently working on: Improvement of access to physical formulas on "Platform", implement software for portable MRI and Jira Connector.  </br>
 - 🌱 I’m currently learning: Golang, algorithms and data structures and fullstack development.  </br>

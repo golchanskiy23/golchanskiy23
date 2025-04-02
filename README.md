@@ -3,10 +3,10 @@
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golchanskiy23&label=Profile%20views&color=0e75b6&style=flat" alt="golchanskiy23" /> </p>
 <h3 align="center">A second-year student of the Faculty of Physics at ITMO University, Backend Golang and Java developer</h3>
-- 🔭 I’m currently working on: Improvement of access to physical formulas on "Platform", implement software for portable MRI and Jira Connector.  </br>
-- 🌱 I’m currently learning: Golang, algorithms and data structures and fullstack development.  </br>
+- 🔭 I’m currently working on: Jira Connector, In-memory database implementation and User prefers analyzer.  </br>
+- 🌱 I’m currently learning: Golang, Java, autotesting algorithms and data structures and fullstack development.  </br>
 - 📫 How to reach me: golchanskiy23@gmail.com  </br>
-- 📄 View my experience: <a href="">MyCV</a>  </br>
+- 📄 View my experience: <a href="https://drive.google.com/file/d/1Iwb38yW9IBMVi2cEB0JrSq_hPObmbaCA/view?usp=sharing">MyCV</a>  </br>
 - ⚡ Fun fact: a physicist with a focus on programming  </br>
 - 🙋‍♂️ About me: I am currently studying programming independently by solving thematic tasks from universities like ITMO and MIPT available in open access. I also enhance my skills through educational courses from major companies, both online, with mentor-led guidance, and offline, by finding courses in GitHub repositories and completing them independently, including writing tests when testing systems are unavailable. I am doing this in parallel with my second-year studies at the Physics Department of ITMO University, but I still focus on software development.  </br>
 <h3>Languages and Tools</h3>

@@ -2,12 +2,12 @@
 </h1>
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golchanskiy23&label=Profile%20views&color=0e75b6&style=flat" alt="golchanskiy23" /> </p>
-<h3 align="center">A third-year student on Faculty of Software Engineering and Computer Systems (FSECS) at ITMO University in Saint Petersburg, Backend Golang and System Rust developer</h3>
+<h3 align="center">A second-year student on Faculty of Physics at ITMO University in Saint Petersburg, Backend Golang developer and QA Engineer</h3>
 - 🔭 I’m currently working on: Jira Connector, In-memory database implementation, Educational product platform and other more less projects.  </br>
 - 🌱 I’m currently learning: Golang, Rust, autotesting algorithms and data structures and fullstack development.  </br>
-- 📫 How to reach me: golchanskiy23@gmail.com  </br>
-- 📄 View my experience: <a href="https://drive.google.com/file/d/1Iwb38yW9IBMVi2cEB0JrSq_hPObmbaCA/view?usp=sharing">MyCV</a>  </br>
-- 🙋‍♂️ About me: full focused Gopher and Ruster  </br>
+- 📫 How to reach me: tmprmp322@gmail.com  </br>
+- 📄 View my experience: <a href="https://drive.google.com/drive/folders/1KKCkV-9Hhbmyx60y31CEXSWqQfxc4m-R?usp=sharing">MyCV</a>  </br>
+- 🙋‍♂️ About me: full focused Gopher and Tester  </br>
 <h3>Languages and Tools</h3>
 <p align="left">
   <a href="https://www.rust.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="50" height="50"/> </a>

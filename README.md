@@ -2,7 +2,7 @@
 </h1>
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golchanskiy23&label=Profile%20views&color=0e75b6&style=flat" alt="golchanskiy23" /> </p>
-<h3 align="center">A second-year student on Faculty of Physics at ITMO University in Saint Petersburg, Backend Golang developer and QA Engineer</h3>
+<h3 align="center">Backend Golang developer and QA Engineer</h3>
 - 🔭 I’m currently working on: Jira Connector, In-memory database implementation, Educational product platform and other more less projects.  </br>
 - 🌱 I’m currently learning: Golang, Rust, autotesting algorithms and data structures and fullstack development.  </br>
 - 📫 How to reach me: tmprmp322@gmail.com  </br>
